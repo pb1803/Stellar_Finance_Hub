@@ -1,0 +1,16 @@
+{
+  "name": "stellar-finance-hub-backend",
+  "version": "1.0.0",
+  "description": "Backend for Stellar Finance Hub (minimal)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
